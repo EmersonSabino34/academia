@@ -193,7 +193,7 @@ export function Pricing() {
 
                   <Button className="w-full bg-black hover:bg-zinc-800" asChild>
                     <a
-                      href="https://wa.me/351912345678"
+                      href="https://wa.me/351919097799"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center justify-center gap-2"
@@ -250,7 +250,7 @@ export function Pricing() {
                 <CardContent>
                   <Button className="w-full bg-red-600 hover:bg-red-700" asChild>
                     <a
-                      href="https://wa.me/351912345678"
+                      href="https://wa.me/351919097799"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center justify-center gap-2"
