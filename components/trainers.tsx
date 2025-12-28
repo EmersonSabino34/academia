@@ -32,7 +32,6 @@ export function Trainers() {
       image: "https://esyscmmzkkrckempbqti.supabase.co/storage/v1/object/public/beyond/lucas.jpg",
       credentials: "Atletade profissional",
     },
-
      {
       name: "David Crespo",
       role: "Instrutor de Muay Thai",
