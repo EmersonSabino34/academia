@@ -64,7 +64,6 @@ export function Trainers() {
       credentials: "Certificação Internacional",
     },
   ]
-
   return (
     <section id="trainers" className="py-20 bg-zinc-50">
       <div className="container mx-auto px-4">
