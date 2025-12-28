@@ -2,7 +2,6 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 
 export function Trainers() {
   const trainers = [
-    
     {
       name: "alexandre Pereira",
       role: "Instrutor de Jiu-Jitsu",
