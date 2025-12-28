@@ -38,7 +38,6 @@ export function Trainers() {
       image: "https://esyscmmzkkrckempbqti.supabase.co/storage/v1/object/public/beyond/37b6f171-0c40-47e4-bb7e-ee4d58c65717.jpg",
       credentials: "Certificaçao Internacional",
     },
-
     {
       name: "Henrry Tesa",
       role: "Instrutor de Yoga e Pilates",
