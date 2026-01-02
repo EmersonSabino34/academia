@@ -24,7 +24,7 @@ export function Header() {
     { name: "Horários", href: "#schedule" },
     { name: "Treinadores", href: "#trainers" },
     { name: "Contato", href: "#contact" },
-  
+
   ]
 
   return (
